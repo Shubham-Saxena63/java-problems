@@ -1,6 +1,7 @@
 package leetcode.easy;
 
 
+import leetcode.solutions.easy.TwoSum;
 import org.junit.jupiter.api.Test;
 
 import static org.hamcrest.CoreMatchers.equalTo;

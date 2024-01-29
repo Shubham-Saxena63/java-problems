@@ -1,5 +1,6 @@
-package leetcode.easy;
+package leetcode.solutions.easy;
 
+//---------------------------------Problem--------------------------------------//
 /*
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
@@ -32,8 +33,9 @@ Only one valid answer exists.
 
 
 Follow-up: Can you come up with an algorithm that is less than O(n^2) time complexity?
-
 */
+
+//---------------------------------Solution--------------------------------------//
 public class TwoSum {
 
     public int[] twoSum(int[] nums, int target) {
