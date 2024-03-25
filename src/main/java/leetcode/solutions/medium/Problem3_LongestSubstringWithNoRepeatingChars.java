@@ -29,7 +29,7 @@ import java.util.List;
 //s consists of English letters, digits, symbols and spaces.
 
 
-public class LongestSubstringWithNoRepeatingChars {
+public class Problem3_LongestSubstringWithNoRepeatingChars {
 
     public int lengthOfLongestSubstring(String s) {
         char[] chars = s.toCharArray();

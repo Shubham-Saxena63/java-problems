@@ -36,7 +36,7 @@ Follow-up: Can you come up with an algorithm that is less than O(n^2) time compl
 */
 
 //---------------------------------Solution--------------------------------------//
-public class TwoSum {
+public class Problem1_TwoSum {
 
     public int[] twoSum(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
